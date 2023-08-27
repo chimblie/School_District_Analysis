@@ -1,8 +1,4 @@
 # School_District_Analysis
-<<<<<<< HEAD
-=======
-Analysis Report
->>>>>>> 54e86c0fabfd3a29af7f28f5aac9cfc9e97eda77
 The purpose of this assignment was to assist Maria, the chief data scientist for a city school district, to analyze data on student funding and students' standardized test scores and to aggregate the data and showcase trends in school performance. 
 In doing so, I started by importing the CSV file and creating a path. 
 import pandas as pd 
@@ -63,8 +59,4 @@ Public       9        64.0
              10       64.0
              11       59.0
              12       64.0
-<<<<<<< HEAD
 Name: math_score, dtype: float64
-=======
-Name: math_score, dtype: float64
->>>>>>> 54e86c0fabfd3a29af7f28f5aac9cfc9e97eda77
